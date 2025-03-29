@@ -53,8 +53,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Arrayar/Arrayar/output/snake.svg" alt="Snake animation" />
 
-###
+
+
