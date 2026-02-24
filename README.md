@@ -59,9 +59,16 @@ Let’s build intelligent systems that scale.
 ###
 
 
- <a href="https://www.linkedin.com/in/chinmayee-ganjale-728026236" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+<div align="left">
+
+<a href="https://www.linkedin.com/in/chinmayee-ganjale-728026236" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo"/>
 </a>
+
+<a href="https://www.credly.com/badges/3ca98bee-153e-49e2-90af-1b7012bb293f/public_url" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=AWS%20Certified%20Cloud%20Practitioner&logo=amazon-aws&label=&color=FF9900&logoColor=white&style=for-the-badge" height="35" alt="aws badge"/>
+</a>
+
 </div>
 
 ###
