@@ -1,5 +1,21 @@
-<h5 align="left">👋 Hi there! I'm Chinmayee Ganjale<br><br>📊 Data Enthusiast | 🤖 Tech Innovator | 🌍 Problem Solver<br><br>Welcome to my GitHub world! I'm passionate about all things data—whether it's Data Science, Analytics, or turning raw numbers into meaningful insights.<br><br>🔍 Here to bridge the gap between innovation and data-driven solutions!<br>💡 Interested in solving real-world problems with the power of data—because numbers tell stories, and I love decoding them.<br><br>🚀 Let’s explore, build, and transform data into impact!</h5>
+<h5 align="left">
+👋 Hi there! I'm Chinmayee Ganjale  
 
+📊 Data Science | 🤖 AI/ML | ☁️ Cloud Engineering  
+
+Welcome to my GitHub! I work at the intersection of data, machine learning, and cloud computing—building systems that are intelligent, scalable, and production-ready.
+
+🔹 AWS Certified Cloud Practitioner (Score: 1000/1000) | AWS re/Start Graduate  
+🔹 NPTEL Big Data Computing — Top 5% Elite Performer  
+🔹 Hands-on experience with AWS (Lambda, API Gateway, DynamoDB, RDS, IAM), Python, and ML pipelines  
+
+I enjoy designing end-to-end solutions—from data preprocessing and model building to deploying scalable cloud architectures.
+
+💡 Strong believer in data-driven systems, secure cloud design, and continuous learning.  
+🚀 Currently exploring advanced ML systems, cloud-native applications, and DevOps fundamentals.
+
+Let’s build intelligent systems that scale.
+</h5>
 ###
 
 <div align="center">
