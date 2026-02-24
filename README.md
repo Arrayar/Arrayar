@@ -16,12 +16,7 @@ I enjoy designing end-to-end solutions—from data preprocessing and model build
 
 Let’s build intelligent systems that scale.
 </h5>
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arrayar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arrayar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
